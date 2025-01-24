@@ -40,7 +40,7 @@ export default function RootLayout({ children }) {
             
         </div>
         </div>
-        <main className="container mx-auto mt-16">{children}</main>
+        <main className="container mx-auto mt-8">{children}</main>
       </body>
     </html>
   );
